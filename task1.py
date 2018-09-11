@@ -1,7 +1,7 @@
 
 from collections import Counter
 
-with open("textfile") as f:
+with open("updates") as f:
     txtlist = f.read().split()
 
 countdict = (Counter(txtlist))
