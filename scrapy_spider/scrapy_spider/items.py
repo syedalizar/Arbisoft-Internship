@@ -8,7 +8,14 @@
 import scrapy
 
 
-class ScrapySpiderItem(scrapy.Item):
+class SpiderItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     pass
+
+class blogblowlitem(scrapy.Item):
+    postdate = scrapy.Field()
+    posttitle = scrapy.Field()
+    postlabels = scrapy.Field()
+    postcontent = scrapy.Field()
+    postrelatedlink = scrapy.Field()
