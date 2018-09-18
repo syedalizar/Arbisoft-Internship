@@ -14,8 +14,8 @@ class SpiderItem(scrapy.Item):
     pass
 
 class blogblowlitem(scrapy.Item):
-    postdate = scrapy.Field()
+    #postdate = scrapy.Field()
     posttitle = scrapy.Field()
     postlabels = scrapy.Field()
     postcontent = scrapy.Field()
-    postrelatedlink = scrapy.Field()
+    #postrelatedlink = scrapy.Field()
