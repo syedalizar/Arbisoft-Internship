@@ -1,0 +1,5 @@
+-collect all product urls
+-yield all product urls
+-yield all product items in sku format store in a json file
+
+task: follow current urls and build sku data json file

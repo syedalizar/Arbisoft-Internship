@@ -1,0 +1,82 @@
+{
+    "retailer_sku": "482257",
+    "lang": "de",
+    "gender": "women",
+    "category": [
+        "Produkte",
+        "Blazer"
+    ],
+    "brand": "Orsay",
+    "url": "http://www.orsay.com/de-de/blazer-mit-punkteprint-482257046000.html",
+    "market": "DE",
+    "name": "Blazer mit Punkteprint",
+    "description": [
+        "Dieser elegante Blazer ist ein stilvoller Begleiter ins B\u00fcro und in den Abend",
+        "Die dekorativen R\u00fcschen zieren die Seitentaschen und verleihen dem Blazer eine romantische Note",
+        "Das schicke Punktemuster vollendet den attraktiven Look.",
+        "Unser Model ist 177 cm gro\u00df und tr\u00e4gt Gr\u00f6\u00dfe 38",
+        "Material & Pflege"
+    ],
+    "care": [
+        "Obermaterial: 65% POLYESTER - 32% VISKOSE - 3% ELASTAN,",
+        "Futter: 100% POLYESTER"
+    ],
+    "skus": {
+        "046000_32": {
+            "price": 3999,
+            "currency": "EUR",
+            "colour": "Beige",
+            "size": "32",
+            "out_of_stock": true
+        },
+        "046000_34": {
+            "price": 3999,
+            "currency": "EUR",
+            "colour": "Beige",
+            "size": "34",
+            "out_of_stock": true
+        },
+        "046000_36": {
+            "price": 3999,
+            "currency": "EUR",
+            "colour": "Beige",
+            "size": "36",
+            "out_of_stock": true,
+        },
+        "046000_38": {
+            "price": 3999,
+            "currency": "EUR",
+            "colour": "Beige",
+            "size": "38",
+        },
+        "046000_40": {
+            "price": 3999,
+            "currency": "EUR",
+            "colour": "Beige",
+            "size": "40",
+        },
+        "046000_42": {
+            "price": 3999,
+            "currency": "EUR",
+            "colour": "Beige",
+            "size": "42",
+            "out_of_stock": true,
+        },
+        "046000_44": {
+            "price": 3999,
+            "currency": "EUR",
+            "colour": "Beige",
+            "size": "44",
+            "out_of_stock": true,
+        }
+    },
+    "image_urls": [
+        "http://www.orsay.com/dw/image/v2/BCBM_PRD/on/demandware.static/-/Sites-orsay-master-catalog/default/dw9347a8e2/482257/482257_98f.jpg",
+        "http://www.orsay.com/dw/image/v2/BCBM_PRD/on/demandware.static/-/Sites-orsay-master-catalog/default/dw0e02fbc4/482257/482257_98b.jpg",
+        "http://www.orsay.com/dw/image/v2/BCBM_PRD/on/demandware.static/-/Sites-orsay-master-catalog/default/dw3b763bc3/482257/482257_98d.jpg",
+        "http://www.orsay.com/dw/image/v2/BCBM_PRD/on/demandware.static/-/Sites-orsay-master-catalog/default/dwfd16060d/482257/482257_98p.jpg",
+        "http://www.orsay.com/dw/image/v2/BCBM_PRD/on/demandware.static/-/Sites-orsay-master-catalog/default/dw63e6f47d/482257/482257_98s.jpg"
+    ],
+    "price": 3999,
+    "currency": "EUR"
+}
