@@ -1,0 +1,12 @@
+<!-- home page for selection of category -->
+
+<table border = 2>
+  <tr>PRODUCT CATEGORIES</tr>
+  {%for category in categories%}
+  <tr>
+    <td>
+    <a href = "{{url_for('products', category=category)}}">{{category}} </a>
+    </td>
+  </tr>
+  {% endfor %}
+</table>

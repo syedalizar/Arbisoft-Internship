@@ -21,10 +21,11 @@ NEWSPIDER_MODULE = 'orsay.spiders'
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
 
-CONNECTION_STRING = "{drivername}://{user}:{password}@{host}:{port}/{db_name}?charset=utf8".format(
+CONN = "{drivername}://{user}:{password}@{host}:{port}/{db_name}?charset=utf8"
+CONNECTION_STRING = CONN.format(
 drivername="mysql",
-user="root",
-password="MUrchamp20ns!",
+user="",
+password="",
 host="localhost",
 port="3306",
 db_name="orsaydb"
